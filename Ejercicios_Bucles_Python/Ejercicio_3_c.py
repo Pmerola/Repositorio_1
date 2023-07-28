@@ -6,5 +6,6 @@ divisor = int(input("Ingrese el numero divisor: "))
 
 if divisor == 0:
     print("ERROR, el divisor no puede ser 0")
-resultado = numero / divisor
-print("El resultado de su division es:", resultado)
+else:
+    resultado = numero / divisor
+    print("El resultado de su division es:", resultado)
