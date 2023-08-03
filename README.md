@@ -1,3 +1,3 @@
 # Repositorio_1
-Prueba repositorio 
+Este es un Repositorio para almacenar archivos Python
 
