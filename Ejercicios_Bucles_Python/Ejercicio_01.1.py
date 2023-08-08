@@ -4,7 +4,8 @@
 
 palabra = input("Ingrese una palabra: ")
 
-acumulador = 0
-while acumulador < palabra:
-    print(acumulador)
-    acumulador += 1
+contador = 0
+
+while contador != 10:
+    print(palabra)
+    contador += 1
