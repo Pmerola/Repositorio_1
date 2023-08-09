@@ -8,7 +8,7 @@ edad_ingresada = int(input("Ingrese su edad: "))
 if edad_ingresada < 0 or edad_ingresada > 125:
     edad_ingresada = int(input("ERROR, edad invalida, vulva a ingresarla: "))
 
-if edad_ingresada > 17:
+if edad_ingresada >= 17:
     print("Usted es mayor de edad")
 else:
     print("Usted es menor de edad")
