@@ -1,4 +1,5 @@
 # Repositorio_1
-Este es un Repositorio prueba
+Este es un repositorio para aprender a programar Python 
+
 
 
